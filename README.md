@@ -1,6 +1,6 @@
-##📂 C++ Oops Blueprint
+## 📂 C++ Oops Blueprint
 
-###🎓 Learning Levels
+### 🎓 Learning Levels
 
 ▪️ Level 1 • OOP Foundation 01-25
 
